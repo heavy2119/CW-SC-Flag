@@ -44,7 +44,25 @@ This project was created to provide a reliable and responsive hardware flag syst
 
 | Name |  EA  | Note |
 | --- |  ------ |------ |
-| <p align="left"><img src="Image/감속기마운트(좌).jpg" width="300"></p>  |  1EA  |  ATG PGX42-20 전용 (내경 43mm)
+| <p align="left"><img src="Image/15.png" width="300"></p>  |  1EA  | 
+| <p align="left"><img src="Image/16.png" width="300"></p>  |  1EA  | 
+| <p align="left"><img src="Image/17.png" width="300"></p>  |  1EA  | 
+
+# Simhub Arduino Setting
+<p align="left">
+<img src="Image/17.png" width="700">
+</p>
+
+ * 8 LED Bar *
+1. WS2812B RGB leds Count  = 8
+2. Data(DIN digital pin number = 6
+3. encoding = RGB encoding
+
+
+ * RGB Matrix *
+1. Enable WS2812B 8x8 matrix = ON
+2. Data(DIN digital pin number = 3
+
 
 
 
