@@ -22,7 +22,6 @@ This project was created to provide a reliable and responsive hardware flag syst
 ## Main Components
 
 <p align="left">
-<img src="Image/2.jpg" width="250" >
 <img src="Image/14.png" width="600">
 </p>
 
