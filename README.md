@@ -8,6 +8,7 @@ This project was created to provide a reliable and responsive hardware flag syst
 
 - **Design:** Lee Chiwon & Park Sechan
 - **Development:** Lee Chiwon & Park Sechan
+- **RGB Matix : ** Lee Chiwon
 
 
 <p align="left">
