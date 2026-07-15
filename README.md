@@ -10,6 +10,46 @@ This project was created to provide a reliable and responsive hardware flag syst
 - **Development:** Lee Chiwon & Park Sechan
 
 
+<p align="left">
+<img src="image/3.jpg" width="900" >
+</p>
 
+<p align="left">
+<img src="image/4.jpg" width="900" >
+</p>
+
+---
+
+# Hardware
+
+## Main Components
+
+<p align="left">
+<img src="image/3.jpg" width="320" >
+<img src="image/4.png" width="380">
+</p>
+
+| Component    | Model        |
+| ------------ | ------------ |
+| Servo Driver | MADDT1205    |
+| Servo Motor  | MSMD012S1A   |
+| Reducer      | ATG PGX42-20 |
+
+---
+
+# Arduino Wiring (Board Type)
+
+<p align="left">
+<img src="image/Arduino Wirling.jpg" width="900">
+</p>
+
+| Function    | Motor 1 | Motor 2 | Servo I/O |
+| ----------- | ------- | ------- | --------- |
+| Pulse       | 9       | 10      | 4         |
+| Direction   | 7       | 8       | 6         |
+| Hall Sensor | 2       | 3       | -         |
+| 24V+        |         |         | 3,5       |
+
+# Arduino Wiring (PCB Type / I/O(3,4,5,6))
 
 
